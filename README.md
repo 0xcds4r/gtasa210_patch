@@ -1,4 +1,9 @@
 # gtasa210_patch
-A simple fps patch for gtasa v2.10
 
-apk: https://drive.google.com/file/d/1CyvlCZHPNpJ0k5vFIpCD4A8xkZxmTuPV/view?usp=sharing
+PATCH for GTASA 2.10
+
+what's new?
++ Added improved FPS patch;
++ Added patch to load cache from data
+
+apk: https://drive.google.com/file/d/1kHIhB-AEHiOe6L1xYhLqqJxan0E94ShI/view?usp=sharing
